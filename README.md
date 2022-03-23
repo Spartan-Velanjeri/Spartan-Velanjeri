@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **parthanvelanjeri@hotmail.com**
 
+- Always used Github as a cloud storage. Slowly learning to use it for it was designed :)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/parthan.m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parthan.m" height="30" width="40" /></a>
