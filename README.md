@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a top secret robot project**
 
-- 👨‍💻 All of my projects are available at [spartan-velanjeri.github.io](spartan-velanjeri.github.io)
+- 👨‍💻 All of my projects are available at [spartan-velanjeri.github.io](https://spartan-velanjeri.github.io/)
 
 - 💬 Ask me about **ROS, OpenCV, Gazebo, Tensorflow**
 
