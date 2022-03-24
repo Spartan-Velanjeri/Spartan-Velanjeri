@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **parthanvelanjeri@hotmail.com**
 
-- Always used Github as a cloud storage. Slowly learning to use it for it was designed :)
+- Always used Github as a cloud storage. Slowly learning to use it for what it was actually designed :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
